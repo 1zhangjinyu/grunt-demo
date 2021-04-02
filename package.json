@@ -1,0 +1,27 @@
+{
+  "name": "grunt-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1zhangjinyu/grunt-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1zhangjinyu/grunt-demo/issues"
+  },
+  "homepage": "https://github.com/1zhangjinyu/grunt-demo#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "istanbul": "^0.4.5",
+    "mocha": "^8.3.2",
+    "mochawesome": "^6.2.2",
+    "module": "^1.2.5"
+  }
+}
